@@ -16,7 +16,7 @@ export const PASSWORD = 'Mediainvest12345';
 //  Available: claude-sonnet-4-20250514 | claude-opus-4-20250514
 // ------------------------------------------------------------
 
-export const MODEL = 'claude-sonnet-4-20250514';
+export const MODEL = 'claude-sonnet-4-5';
 export const MAX_TOKENS = 1200;
 
 
