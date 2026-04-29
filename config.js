@@ -30,7 +30,6 @@ export const DEFAULT_VERTICALS = [
   'Web Hosting',
   'Antivirus',
   'LLC Formation',
-  'Weight Loss',
   'Student Loan Refinance',
 ];
 
